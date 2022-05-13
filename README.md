@@ -1,7 +1,8 @@
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-### Hi there 👋
-  
+  <br>
+  <h1>Hi there 👋</h1>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faomg201&theme=vue-dark)](https://github.com/faomg201/)
