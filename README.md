@@ -1,8 +1,7 @@
-<div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 ### Hi there 👋
- </div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faomg201&theme=vue-dark)](https://github.com/faomg201/)
 ![faomg201 github stats](https://github-readme-stats.vercel.app/api?username=faomg201&show_icons=true&theme=vue-dark)
 ![trophy](https://github-profile-trophy.vercel.app/?username=faomg201&theme=onedark)
