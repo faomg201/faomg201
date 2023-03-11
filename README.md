@@ -5,7 +5,7 @@
   <h1>Hi there 👋</h1>
 </div>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=faomg201)](https://github.com/faomg201)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=faomg201)]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faomg201&theme=tokyonight)
 ![faomg201 github stats](https://github-readme-stats.vercel.app/api?username=faomg201&show_icons=true&theme=vue-dark).
