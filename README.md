@@ -3,7 +3,7 @@
   <h1>Hi there 👋</h1>
 </div>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?faomg201=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/faomg201=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faomg201&theme=tokyonight)
 ![faomg201 github stats](https://github-readme-stats.vercel.app/api?username=faomg201&show_icons=true&theme=vue-dark).
