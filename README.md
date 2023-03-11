@@ -7,7 +7,7 @@
 
 
 ![faomg201 github stats](https://github-readme-stats.vercel.app/api?username=faomg201&show_icons=true&theme=vue-dark).
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faomg201&theme=vue-dark)](https://github.com/faomg201)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faomg201&theme=vue-dark)](https://github.com/faomg)
 ![trophy](https://github-profile-trophy.vercel.app/?username=faomg201&theme=onedark)
 <!--
 **faomg201/faomg201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
